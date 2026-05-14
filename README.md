@@ -66,7 +66,7 @@ I am a passionate developer focused on building scalable full-stack applications
 </details>
 
 <details>
-<summary>🏥 <b><a href="#">Hospital Appointment Management</a></b></summary>
+<summary>🏥 <b><a href="https://github.com/shravyashetty04/hospital_management">Hospital Appointment Management</a></b></summary>
 <br>
 
 > Streamlining healthcare scheduling for patients and doctors.
