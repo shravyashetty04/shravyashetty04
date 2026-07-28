@@ -419,7 +419,9 @@ Contributed to the development of a Learning Management System by implementing p
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shravyashetty04&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=shravyashetty04&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
 </p>
 ---
 
