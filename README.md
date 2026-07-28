@@ -416,10 +416,6 @@ Contributed to the development of a Learning Management System by implementing p
 
 ---
 
-# GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
 
 # Contribution Activity
 
