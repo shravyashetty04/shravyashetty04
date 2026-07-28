@@ -418,9 +418,7 @@ Contributed to the development of a Learning Management System by implementing p
 
 # GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shravyashetty04&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 # Contribution Activity
