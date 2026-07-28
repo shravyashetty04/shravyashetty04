@@ -398,20 +398,19 @@ Contributed to the development of a Learning Management System by implementing p
 
 ---
 ---
-
 # GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shravyashetty04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shravyashetty04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyashetty04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shravyashetty04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravyashetty04&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A855F7&currStreakLabel=FFFFFF"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=shravyashetty04&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -421,10 +420,9 @@ Contributed to the development of a Learning Management System by implementing p
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shravyashetty04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shravyashetty04&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
-
 ---
 
 # Contribution Activity
