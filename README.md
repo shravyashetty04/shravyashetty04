@@ -5,6 +5,9 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,40:302B63,70:6A11CB,100:8E2DE2&section=header&text=Shravya%20Shetty&fontSize=48&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
+<p align="center">
+  <img src="portrait.svg" width="650" alt="Animated ASCII Portrait">
+</p>
 
 <p align="center">
 
@@ -63,9 +66,7 @@
 
 # About Me
 
-<p align="center">
-  <img src="portrait.svg" width="650" alt="Animated ASCII Portrait">
-</p>
+
 
 I'm a **Software Engineer** passionate about building scalable applications that solve real-world problems through modern software engineering principles.
 
