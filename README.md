@@ -63,6 +63,10 @@
 
 # About Me
 
+<p align="center">
+  <img src="portrait.svg" width="650" alt="Animated ASCII Portrait">
+</p>
+
 I'm a **Software Engineer** passionate about building scalable applications that solve real-world problems through modern software engineering principles.
 
 My journey combines **Full Stack Development**, **Artificial Intelligence**, and **Machine Learning**, allowing me to engineer products that are secure, performant, and production-ready. I enjoy transforming ideas into robust software systems by applying clean architecture, efficient algorithms, and data-driven decision making.
