@@ -440,7 +440,7 @@ Contributed to the development of a Learning Management System by implementing p
 
 </p>
 
-> **Note:** To enable the snake animation, create a GitHub Actions workflow that generates the `github-contribution-grid-snake-dark.svg` file and publishes it to the `output` branch.
+
 
 ---
 
