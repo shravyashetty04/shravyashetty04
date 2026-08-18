@@ -500,7 +500,9 @@ Open To:
 </a>
 
 <a href="https://github.com/shravyashetty04">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-6D28D9?style=for-the-badge"/>
+<a href="https://graceful-glow-kit.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 </a>
 
 </p>
